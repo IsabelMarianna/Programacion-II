@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\Programacion II\EQUIPO1\EQUIPO1\bin\Debug\netcoreapp3.1\EQUIPO1.exe
+C:\Users\USUARIO\Desktop\Programacion II\EQUIPO1\EQUIPO1\bin\Debug\netcoreapp3.1\EQUIPO1.deps.json
+C:\Users\USUARIO\Desktop\Programacion II\EQUIPO1\EQUIPO1\bin\Debug\netcoreapp3.1\EQUIPO1.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Programacion II\EQUIPO1\EQUIPO1\bin\Debug\netcoreapp3.1\EQUIPO1.runtimeconfig.dev.json
+C:\Users\USUARIO\Desktop\Programacion II\EQUIPO1\EQUIPO1\bin\Debug\netcoreapp3.1\EQUIPO1.dll
+C:\Users\USUARIO\Desktop\Programacion II\EQUIPO1\EQUIPO1\bin\Debug\netcoreapp3.1\EQUIPO1.pdb
+C:\Users\USUARIO\Desktop\Programacion II\EQUIPO1\EQUIPO1\obj\Debug\netcoreapp3.1\EQUIPO1.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Programacion II\EQUIPO1\EQUIPO1\obj\Debug\netcoreapp3.1\EQUIPO1.Form1.resources
+C:\Users\USUARIO\Desktop\Programacion II\EQUIPO1\EQUIPO1\obj\Debug\netcoreapp3.1\EQUIPO1.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Programacion II\EQUIPO1\EQUIPO1\obj\Debug\netcoreapp3.1\EQUIPO1.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Programacion II\EQUIPO1\EQUIPO1\obj\Debug\netcoreapp3.1\EQUIPO1.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Programacion II\EQUIPO1\EQUIPO1\obj\Debug\netcoreapp3.1\EQUIPO1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Programacion II\EQUIPO1\EQUIPO1\obj\Debug\netcoreapp3.1\EQUIPO1.dll
+C:\Users\USUARIO\Desktop\Programacion II\EQUIPO1\EQUIPO1\obj\Debug\netcoreapp3.1\EQUIPO1.pdb
+C:\Users\USUARIO\Desktop\Programacion II\EQUIPO1\EQUIPO1\obj\Debug\netcoreapp3.1\EQUIPO1.genruntimeconfig.cache
